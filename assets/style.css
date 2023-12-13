@@ -181,7 +181,7 @@ header {
     padding: 0;
     width: 100vw;
     height: 98vh;
-    background-image: url(/assets/images/headerbg1.webp); /*I recommend using 2K ULTRA HD .png .svg content here for higher SEO and overall beautiness.*/
+    background-image: url(assets/images/headerbg1.webp); /*I recommend using 2K ULTRA HD .png .svg content here for higher SEO and overall beautiness.*/
     background-size: cover;
     background-repeat: no-repeat;
     -webkit-box-shadow: -1px 5px 20px -1px rgba(0,0,0,0.75);
